@@ -1,1 +1,1 @@
-Static page hosted at http://mtkachenko.me/
+Static page hosted at https://mtkachenko.me/
